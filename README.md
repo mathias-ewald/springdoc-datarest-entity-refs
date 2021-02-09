@@ -1,0 +1,1 @@
+# springdoc-datarest-entity-refs
