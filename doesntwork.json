@@ -1,0 +1,7 @@
+{
+  "email": "test@test.com",
+  "role": {
+    "name": "some role",
+    "permissions": ["read", "update"]
+  }
+}
