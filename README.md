@@ -655,7 +655,7 @@ Works:
 }
 ```
 
-Creates Invitation but the Role reference is null:
+Creates Invitation but /invitations/X/roles returns 404 even though the Invitation as `@NotNull` on the relation:
 ```
 {
   "email": "test@test.com",
