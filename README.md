@@ -655,7 +655,7 @@ Works:
 }
 ```
 
-Works:
+Creates Invitation but the Role reference is null:
 ```
 {
   "email": "test@test.com",
@@ -665,3 +665,5 @@ Works:
   }
 }
 ```
+
+
